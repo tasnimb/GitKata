@@ -9,8 +9,8 @@ TABLE 1 - head table
 6. Rubeus Hagrid
 7. Ron Weasley
 8. Hermione Granger
-9. Luna Lovegood
-10. Rolf Scamander
+9. Tasnim Begum
+10. James Nahajski
 
 
 TABLE 2 - Extended Family
@@ -21,8 +21,8 @@ TABLE 2 - Extended Family
 15. George Weasley
 16. Angelina Johnson
 17. Gabrielle Delacour
-18. 
-19. 
+18. Rolf Scamander
+19. Luna Lovegood
 20.
 
 TABLE 3 - Mutual Friends
